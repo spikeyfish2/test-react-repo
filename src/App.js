@@ -4,7 +4,7 @@ import {useState} from "react";
 
 function App() {
 
-    const [hello, setHello] = useState('hello');
+    const [hello] = useState('hello');
 
 
 
